@@ -1,16 +1,32 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-09345de216fa94a954c1.js",
-      "component---src-pages-index-js-09345de216fa94a954c1.js.map"
+      "component---src-pages-index-js-82bfe904a5282a13deb4.js",
+      "component---src-pages-index-js-82bfe904a5282a13deb4.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
     ],
     "path---counter": [
       "path---counter-a0e39f21c11f6a62c5ab.js",
       "path---counter-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---article": [
+      "path---article-a0e39f21c11f6a62c5ab.js",
+      "path---article-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-counter-js": [
-      "component---src-pages-counter-js-3aa032a20e864fb075b6.js",
-      "component---src-pages-counter-js-3aa032a20e864fb075b6.js.map"
+      "component---src-pages-counter-js-b9930b08d0bdbaf506a1.js",
+      "component---src-pages-counter-js-b9930b08d0bdbaf506a1.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-cc7622e42785c406f268.js",
+      "component---src-layouts-index-js-cc7622e42785c406f268.js.map"
+    ],
+    "path---about-css-modules": [
+      "path---about-css-modules-a0e39f21c11f6a62c5ab.js",
+      "path---about-css-modules-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
@@ -20,17 +36,45 @@
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-about-css-modules-js": [
+      "component---src-pages-about-css-modules-js-6729923c54ee5f9199b4.js",
+      "component---src-pages-about-css-modules-js-6729923c54ee5f9199b4.js.map"
+    ],
     "commons": [
-      "commons-cfe08c15100186618874.js",
-      "commons-cfe08c15100186618874.js.map"
+      "commons-4654a22d72c5cd54dd7c.js",
+      "build-js-styles.css",
+      "commons-4654a22d72c5cd54dd7c.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-about-css-modules-glamor-js": [
+      "component---src-pages-about-css-modules-glamor-js-37967337d8fa259342a9.js",
+      "component---src-pages-about-css-modules-glamor-js-37967337d8fa259342a9.js.map"
+    ],
+    "component---src-pages-article-js": [
+      "component---src-pages-article-js-69b331f43c3ef51e3493.js",
+      "component---src-pages-article-js-69b331f43c3ef51e3493.js.map"
+    ],
+    "path---about-styled-components": [
+      "path---about-styled-components-a0e39f21c11f6a62c5ab.js",
+      "path---about-styled-components-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-styled-components-js": [
+      "component---src-pages-about-styled-components-js-a958f450af98b011c0b6.js",
+      "component---src-pages-about-styled-components-js-a958f450af98b011c0b6.js.map"
     ],
     "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-bb4fe51f16275c739c30.js",
-      "component---src-pages-page-2-js-bb4fe51f16275c739c30.js.map"
+      "component---src-pages-page-2-js-ee8bd55ff801992d3eea.js",
+      "component---src-pages-page-2-js-ee8bd55ff801992d3eea.js.map"
     ],
     "app": [
-      "app-6700f9d230eedbfa9c75.js",
-      "app-6700f9d230eedbfa9c75.js.map"
+      "app-136d38ccaa37c52740dc.js",
+      "build-js-styles.css",
+      "app-136d38ccaa37c52740dc.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about-css-modules-glamor": [
+      "path---about-css-modules-glamor-a0e39f21c11f6a62c5ab.js",
+      "path---about-css-modules-glamor-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
