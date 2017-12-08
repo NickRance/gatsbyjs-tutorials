@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-82bfe904a5282a13deb4.js",
-      "component---src-pages-index-js-82bfe904a5282a13deb4.js.map"
+      "component---src-pages-index-js-91aa6a66e13f8fad741a.js",
+      "component---src-pages-index-js-91aa6a66e13f8fad741a.js.map"
     ],
     "path---": [
-      "path----557518bd178906f8d58a.js",
-      "path----557518bd178906f8d58a.js.map"
+      "path----3ef5cd532c0650e81510.js",
+      "path----3ef5cd532c0650e81510.js.map"
     ],
     "path---counter": [
       "path---counter-a0e39f21c11f6a62c5ab.js",
@@ -20,9 +20,13 @@
       "component---src-pages-counter-js-b9930b08d0bdbaf506a1.js",
       "component---src-pages-counter-js-b9930b08d0bdbaf506a1.js.map"
     ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-cc7622e42785c406f268.js",
-      "component---src-layouts-index-js-cc7622e42785c406f268.js.map"
+      "component---src-layouts-index-js-73ca6a6e2572b375ed10.js",
+      "component---src-layouts-index-js-73ca6a6e2572b375ed10.js.map"
     ],
     "path---about-css-modules": [
       "path---about-css-modules-a0e39f21c11f6a62c5ab.js",
@@ -32,6 +36,10 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---pandas": [
+      "path---pandas-06034daa3285e4b14f73.js",
+      "path---pandas-06034daa3285e4b14f73.js.map"
+    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
@@ -39,6 +47,14 @@
     "component---src-pages-about-css-modules-js": [
       "component---src-pages-about-css-modules-js-6729923c54ee5f9199b4.js",
       "component---src-pages-about-css-modules-js-6729923c54ee5f9199b4.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-85f7ef8ead9f4bef31df.js",
+      "component---src-pages-my-files-js-85f7ef8ead9f4bef31df.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-d20e3c750fd311854852.js",
+      "path---my-files-d20e3c750fd311854852.js.map"
     ],
     "commons": [
       "commons-4654a22d72c5cd54dd7c.js",
@@ -54,6 +70,10 @@
       "component---src-pages-article-js-69b331f43c3ef51e3493.js",
       "component---src-pages-article-js-69b331f43c3ef51e3493.js.map"
     ],
+    "path---pandas-and-bananas": [
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js",
+      "path---pandas-and-bananas-b3ce60024787ff23dce2.js.map"
+    ],
     "path---about-styled-components": [
       "path---about-styled-components-a0e39f21c11f6a62c5ab.js",
       "path---about-styled-components-a0e39f21c11f6a62c5ab.js.map"
@@ -66,15 +86,31 @@
       "component---src-pages-page-2-js-ee8bd55ff801992d3eea.js",
       "component---src-pages-page-2-js-ee8bd55ff801992d3eea.js.map"
     ],
+    "path---sweet-pandas-eating-sweets": [
+      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js",
+      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js.map"
+    ],
     "app": [
-      "app-136d38ccaa37c52740dc.js",
+      "app-0a9bd4d0a82b5919d994.js",
       "build-js-styles.css",
-      "app-136d38ccaa37c52740dc.js.map",
+      "app-0a9bd4d0a82b5919d994.js.map",
       "build-js-styles.css.map"
     ],
     "path---about-css-modules-glamor": [
       "path---about-css-modules-glamor-a0e39f21c11f6a62c5ab.js",
       "path---about-css-modules-glamor-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-542f8213f94c8ed04ef6.js",
+      "component---src-pages-about-js-542f8213f94c8ed04ef6.js.map"
+    ],
+    "path---about": [
+      "path---about-3815054763f3a00a02f7.js",
+      "path---about-3815054763f3a00a02f7.js.map"
+    ],
+    "component---src-pages-pandas-js": [
+      "component---src-pages-pandas-js-3fa4f836cd9c98bf6ddc.js",
+      "component---src-pages-pandas-js-3fa4f836cd9c98bf6ddc.js.map"
     ]
   }
 }
